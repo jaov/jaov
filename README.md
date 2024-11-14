@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jaov
-- 👀 I’m interested in Pixel art, Fighting games, and programming anything but UI
-- 🌱 I’m currently learning CSS, 
-- 💞️ I’m looking to collaborate on small libraries or scripts
+- 👀 I’m interested in Pixel art, Fighting games, and programming
+- 🌱 I’m currently learning about interpreters and java tooling
+- 💞️ I’m looking to collaborate on anything that doesn't render content to a screen
 - 📫 How to reach me: just DM me here!
 
 <!---
